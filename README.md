@@ -82,8 +82,8 @@ VertexPurpurは既存のBukkit/Spigot/Paper/Purpurプラグインとほぼ完全
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/VertexPurpur.git
-cd VertexPurpur
+git clone https://github.com/wisemanjr4/VertexPurpur-1.19.4.git
+cd VertexPurpur-1.19.4
 
 # Build
 ./gradlew applyPatches
