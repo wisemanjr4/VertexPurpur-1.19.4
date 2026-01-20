@@ -1,9 +1,9 @@
 # VertexPurpur
 
-> **Yatopiaの意志を継ぐ、究極の1.19.4専用Minecraftサーバー**
+> **Yatopiaの意志を継ぐ、究極の1.21.4専用Minecraftサーバー**
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
-[![Minecraft](https://img.shields.io/badge/minecraft-1.19.4-brightgreen.svg)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/minecraft-1.21.4-brightgreen.svg)](https://www.minecraft.net/)
 [![Java](https://img.shields.io/badge/java-17+-orange.svg)](https://adoptium.net/)
 
 ## ATTENTION!このサーバーは未完成です！完成するかもわかりません！ごめんね！！
@@ -16,7 +16,7 @@ VertexPurpurは、かつてのYatopiaが目指した「極限までの最適化�
 
 - **⚡ 究極の軽量化** - 数多の最適化パッチを統合し、徹底的なパフォーマンスチューニング
 - **🧵 Foliaライクなマルチスレッド** - 複数コアを活用しながら、既存プラグインとの互換性をほぼ維持
-- **🎯 1.19.4特化** - 単一バージョンに集中することで、安定性とパフォーマンスを追求
+- **🎯 1.21.4特化** - 単一バージョンに集中することで、安定性とパフォーマンスを追求
 - **💡 Yatopiaの遺伝子** - 伝説的な最適化プロジェクトの思想を現代に継承
 - **🔧 プラグイン互換性** - Foliaと違い、既存のプラグインがほぼそのまま動作
 
@@ -32,7 +32,7 @@ VertexPurpurは、かつてのYatopiaが目指した「極限までの最適化�
 | マルチスレッド | ❌ | ❌ | ✅ | ✅ |
 | プラグイン互換性 | ✅ | ✅ | ⚠️ 限定的 | ✅ ほぼ完全 |
 | 安定性 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ |
-| 1.19.4対応 | ✅ | ✅ | ✅ | ✅ |
+| 1.21.4対応 | ✅ | ✅ | ✅ | ✅ |
 
 **VertexPurpurは、Foliaの革新的なマルチスレッドと、従来サーバーの安定性・互換性のいいとこ取りを実現しました。**
 
@@ -43,7 +43,7 @@ VertexPurpurは、かつてのYatopiaが目指した「極限までの最適化�
 ### Requirements / 必要環境
 
 - Java 17 or higher
-- 1.19.4 Minecraft client
+- 1.21.4 Minecraft client
 - 最低 2GB RAM（推奨 4GB+）
 
 ## ⚙️ Configuration / 設定
@@ -74,7 +74,7 @@ VertexPurpurは既存のBukkit/Spigot/Paper/Purpurプラグインとほぼ完全
 - 非同期処理を適切に扱っていないプラグイン
 - チャンクロード周りでタイミングに依存するプラグイン
 
-問題があれば [Issues](https://github.com/wisemanjr4/VertexPurpur-1.19.4/issues) で報告してください！
+問題があれば [Issues](https://github.com/wisemanjr4/VertexPurpur-1.21.4/issues) で報告してください！
 
 ---
 
@@ -82,14 +82,14 @@ VertexPurpurは既存のBukkit/Spigot/Paper/Purpurプラグインとほぼ完全
 
 ```bash
 # Clone the repository
-git clone https://github.com/wisemanjr4/VertexPurpur-1.19.4.git
-cd VertexPurpur-1.19.4
+git clone https://github.com/wisemanjr4/VertexPurpur-1.21.4.git
+cd VertexPurpur-1.21.4
 
 # Build
 ./gradlew applyPatches
 ./gradlew createReobfPaperclipJar
 
-# Output: build/libs/vertexpurpur-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar
+# Output: build/libs/vertexpurpur-paperclip-1.21.4-R0.1-SNAPSHOT-reobf.jar
 ```
 
 ---
@@ -100,7 +100,7 @@ VertexPurpurはコミュニティの力で成長します！
 
 ### 貢献方法
 
-1. **🐛 バグ報告** - [Issues](https://github.com/wisemanjr4/VertexPurpur-1.19.4/issues) でバグを報告
+1. **🐛 バグ報告** - [Issues](https://github.com/wisemanjr4/VertexPurpur-1.21.4/issues) でバグを報告
 2. **💡 最適化の共有** - あなたの発見した最適化技術をぜひ共有してください！
 3. **🔧 Pull Request** - コードの改善を提案
 4. **📖 ドキュメント** - Wiki の充実にご協力を
@@ -149,8 +149,8 @@ VertexPurpurは以下のプロジェクトなしには存在しませんでし�
 ## 💬 Community / コミュニティ
 
 - **Discord**: [Join our Discord]() (準備中)
-- **Issues**: [GitHub Issues](https://github.com/wisemanjr4/VertexPurpur-1.19.4/issues)
-- **Wiki**: [Documentation](https://github.com/wisemanjr4/VertexPurpur-1.19.4/wiki)
+- **Issues**: [GitHub Issues](https://github.com/wisemanjr4/VertexPurpur-1.21.4/issues)
+- **Wiki**: [Documentation](https://github.com/wisemanjr4/VertexPurpur-1.21.4/wiki)
 
 ---
 
