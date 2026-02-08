@@ -109,6 +109,7 @@ VertexPurpurはコミュニティの力で成長します！
 
 詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
 また、現状の進捗や今後の計画は [ROADMAP.md](ROADMAP.md) にまとめています。
+現在の進捗状況は [STATUS.md](STATUS.md) にまとめています。
 
 ---
 

@@ -6,7 +6,7 @@
 
 - [ ] 仕様・方向性の整理（Yatopia/Purpur/Folia のどれを基準にするか）
 - [ ] ビルド手順の確定（Gradle タスクの洗い出し）
-- [ ] 必要なドキュメント整備（README/CONTRIBUTING）
+- [x] CONTRIBUTING / ROADMAP / STATUS の整備
 
 ## Phase 1: ビルド最小構成
 
