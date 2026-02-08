@@ -108,6 +108,8 @@ VertexPurpurはコミュニティの力で成長します！
 **素晴らしい最適化を見つけたら、独り占めせずにコミュニティと共有しましょう！** 私たちは先人の肩の上に立っています。
 
 詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
+また、現状の進捗や今後の計画は [ROADMAP.md](ROADMAP.md) にまとめています。
+現在の進捗状況は [STATUS.md](STATUS.md) にまとめています。
 
 ---
 
